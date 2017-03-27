@@ -8,3 +8,5 @@
 乌龟：我们想要实现的乌龟代码包
 Guiling：`Guile`做了什么
 更进一步：你可以采取的下一步
+
+原文链接：[http://www.gnu.org/software/guile/docs/guile-tut/tutorial.html](http://www.gnu.org/software/guile/docs/guile-tut/tutorial.html)
