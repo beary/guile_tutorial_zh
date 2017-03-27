@@ -1,4 +1,4 @@
 # Guile 入门指南
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+这篇文档介绍了`Guile`的使用，它是`GNU`扩展语言和系统.`Guile`是`Scheme`程序语言的一种方言，同时我假设你有`Scheme`或者`LISP`的基础知识。然而，`Guile`也允许应用开发者将它集成到他们的程序中去以提供脚本语言的效率，以及利用其他应用程序的特定的语言来扩展`Guile`原语。
 
